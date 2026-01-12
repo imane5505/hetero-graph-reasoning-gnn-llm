@@ -128,6 +128,8 @@ Graph-guided Chain-of-Thought
 
 Faithful explanation generation
 
+---
+
 ⚠️ Notes
 
 Datasets are intentionally excluded.
@@ -136,11 +138,15 @@ Trained models (.pt) are not versioned.
 
 The repository focuses on reproducible research code.
 
+---
+
 👤 Authors
 
 Imane Enneya
 
 Ayoub Fakraoui
+
+---
 
 📄 License
 
